@@ -13,6 +13,13 @@ export default function Home() {
           priority
         />
         <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
+          <Image
+            src="/images/logo/Color=White.png"
+            alt="coZyuLab logo"
+            width={180}
+            height={60}
+            priority
+          />
           <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
             Welcome to coZyuLab Portal
           </h1>
