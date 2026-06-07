@@ -14,7 +14,7 @@ export default function Home() {
         />
         <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
           <Image
-            src="/images/logo/Color=White.png"
+            src="/images/logo/Color%3DWhite.png"
             alt="coZyuLab logo"
             width={180}
             height={60}
